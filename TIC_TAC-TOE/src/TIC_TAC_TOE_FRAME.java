@@ -555,7 +555,7 @@ public class TIC_TAC_TOE_FRAME extends javax.swing.JFrame {
         }
         else
         {
-            txtbtn1.setForeground(magenta);
+            txtbtn1.setForeground(blue);
         }
         choosePlayer();
         chooseWinner();
